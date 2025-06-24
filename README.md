@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thomas Lecoeur
 
 💻 Full Stack Developer & Senior Product Manager — blending code and product to build things that actually work.  
-🔁 I didn't leave compliance & fraud — I leveled it up with full stack development skills.
+🔁 I didn't leave compliance & fraud — I leveled it up with full stack development skills.  
 🚀 Bootcamp grad @ La Capsule (2025), now crafting full stack apps with speed and joy.  
 📍 Paris-based, terminal always open, curious mind always on.
 
