@@ -7,7 +7,7 @@
 
 ## ⚙️ Tech I'm working with
 
-`JavaScript` · `React` · `React Native` · `Node.js` · `Express` · `MongoDB` · `Vercel`  
+`JavaScript` · `React` · `React Native` , `REST API` · `Node.js` · `Express` · `MongoDB` · `Vercel`  
 Always happy to add a new tool to the stack if it gets the job done.
 
 ## 🧠 Previously
