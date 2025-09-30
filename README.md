@@ -17,4 +17,4 @@ leading teams, solving fraud, navigating audits, and translating chaos into clea
 
 ## 💬 Let's connect
 
-[📧 tlecoeur@gmail.com](mailto:tlecoeur@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/thomas-lecoeur/)
+[📧 tlecoeur@gmail.com](mailto:tlecoeur@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/thomas-lecoeur-a0308a14/)
